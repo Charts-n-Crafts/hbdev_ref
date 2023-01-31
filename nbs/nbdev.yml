@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_ref"
+  site-url: "https://Charts-n-Crafts.github.io/nbdev_ref"
+  description: "Reference materials for setting up nbdev projects"
+  repo-branch: main
+  repo-url: "https://github.com/Charts-n-Crafts/nbdev_ref"

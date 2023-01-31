@@ -1,0 +1,7 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_first module.ipynb
+      - 01_quarto_commands.ipynb
+      - 02_nbdev_commands.ipynb
